@@ -15,8 +15,8 @@ class ChatUI {
             { addSuffix: true }
         )
         const html = `
-            <li class="list-group-item">
-                <span class="username">${data.username}</span>
+            <li class="collection-item">
+                <span class="username">${data.username}:</span>
                 <span class="message">${data.message}</span>
                 <div class="time">${when}</div>
             </li>
