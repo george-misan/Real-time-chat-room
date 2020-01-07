@@ -23,3 +23,20 @@
     text-align: center;
     margin: 20px auto;
 }
+
+.input-group-append.btn{
+    display: inline-block;
+}
+
+h3 {
+    font-weight: 500;
+    padding: .8rem;
+}
+
+.chat-windows{
+    margin-top: 1.2rem;
+    margin-bottom: 2rem;
+}
+.choose-label{
+    margin-bottom: 0.5rem;
+}
